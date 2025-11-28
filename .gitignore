@@ -1,0 +1,8 @@
+# Ignore node modules
+frontend/node_modules
+server/node_modules
+
+# Optional
+*.log
+.DS_Store
+.env
